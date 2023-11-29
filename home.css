@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Meow+Script&family=Smooch&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html{
+    scroll-behavior: smooth;
+}
+.home{
+    background-image:URL("img10.jpeg");
+    background-repeat:no-repeat;
+    background-position: top,center;
+    background-size:100%,100%;
+    margin:-3px;
+    background-attachment: fixed;
+    }
+section{
+        padding: 7rem 10%;
+    }
+.navbar,a{
+    color: hsl(36, 100%, 97%);
+    background-color:rgb(150, 12, 35);
+    padding: 15px;
+    text-align: right;
+    overflow:auto ;
+    
+}
+    .home p{
+    font-family: 'Meow Script', cursive;
+    font-family: 'Smooch', cursive;
+    text-align:left;
+    font-size: 70px;
+    font-weight:90;
+    color:maroon;
+}   
+h3{
+    font-family:cursive bold;
+    font-size:40px ;
+    letter-spacing: 1rem;
+    text-align:center; 
+}
+body{
+    background-color: rgb(220, 201, 233);
+   
+}
+.feed{
+    
+}
+p{
+    font-size: larger;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
